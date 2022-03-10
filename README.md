@@ -9,7 +9,7 @@
 <h3 align="center">A self-taught developer from India , who loves to code .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukore143&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukore143" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnukore143" alt="vishnukore143" /></a> </p>
- <h3 align="left">Languages and Tools:</h3>
+ <!--<h3 align="left">Languages and Tools:</h3>  -->
 <h3 align="left">Connect with me:  **vishnukore123@gmail.com**</h3>
 <p align="left">
 </p>
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnukore143&show_icons=true&locale=en" alt="vishnukore143" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukore143&" alt="vishnukore143" /> </p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukore143&" alt="vishnukore143" /> </p>  -->
